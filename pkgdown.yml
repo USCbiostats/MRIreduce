@@ -2,8 +2,8 @@ pandoc: 3.1.11
 pkgdown: 2.1.0
 pkgdown_sha: ~
 articles:
-  NeuroPartitioner: NeuroPartitioner.html
-last_built: 2024-09-06T21:01Z
+  MRIreduce: MRIreduce.html
+last_built: 2024-09-16T05:51Z
 urls:
-  reference: https://jtian123.github.io/WHIMs/reference
-  article: https://jtian123.github.io/WHIMs/articles
+  reference: https://jtian123.github.io/MRIreduce/reference
+  article: https://jtian123.github.io/MRIreduce/articles
